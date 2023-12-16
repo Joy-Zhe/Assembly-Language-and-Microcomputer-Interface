@@ -1,0 +1,10 @@
+.vs/
+.obsidian/
+.idea/
+.vscode/
+.zip/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-debug-visual-studio/
+cmake-build-release-visual-studio/
+out/
